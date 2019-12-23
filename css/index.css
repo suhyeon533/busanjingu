@@ -247,10 +247,14 @@ select::-ms-expand{
     margin-top:-30px;
 }
 
-.leftArrow{
+.con3Wrap .leftArrow{
+    width:30px;
+    height:57px;
     left:250px;
 }
-.rightArrow{
+.con3Wrap .rightArrow{
+    width:30px;
+    height:57px;
     right:250px;
 }
 
